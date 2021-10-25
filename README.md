@@ -1,1 +1,2 @@
 # BSUIRHUB
+This app for students of BSUIR. They can upload different materials, labs, projects and share it with each other. May be users would get some points, benefits by this, i should think more about this system. And i think add pages with professors and subjects, like topics, in this pages people can write some infomation. Of course guests can watching this pages, may be not all. Users also wathing pages and upload materials, create topics. Admins - edit all content, ban users and smt else.. 
